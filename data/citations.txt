@@ -1,9 +1,4 @@
 ---- Gastronomie
--- FR
-"L'homme est bon, mais le veau est meilleur.","Bertold Brecht"
-"Chaque repas que l'on fait est un repas de moins à faire.","Vladimir Jankélévitch"
-"La gourmandise commence quand on n'a plus faim.","Alphonse Daudet"
-"Le plus grand outrage qu'on l'on puisse faire à un gourmand, c'est de l'interrompre dans l'exercice de ses mâchoires.","Alexandre Balthazar Grimod de la Reynière"
 -- EN
 "One cannot think well, love well, sleep well, if one has not dined well.","Virginia Woolf"
 "Ask not what you can do for your country. Ask what’s for lunch.","Orson Welles"
